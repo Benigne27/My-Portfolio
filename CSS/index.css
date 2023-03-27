@@ -255,15 +255,16 @@ footer h3 {
     width: 120px;
   }
   .heading {
-    margin-right: -10%;
+    margin-right: 10%;
   }
   .rect {
     width: 30%;
   }
-  .rect h1 {
+  #about .rect h1 {
     font-size: medium;
-    padding-left: 10px;
+    padding-left: 20px;
   }
+
   footer {
     margin-top: 70%;
   }
